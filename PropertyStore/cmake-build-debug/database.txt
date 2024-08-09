@@ -1,0 +1,2 @@
+Section Name	Property Name	Property Value	
+District 10		St Barts		$10,000,000
